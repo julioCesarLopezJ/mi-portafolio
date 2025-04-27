@@ -25,6 +25,7 @@ Here’s a list of some repositories included in this portfolio:
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ProyectoBDFusionMusical](https://github.com/julioCesarLopezJ/music-store-database) | Music store database with SQL Server | SQL Server |
+| [VeterinaryManagement](https://github.com/julioCesarLopezJ/veterinary-management-system) | Veterinary management system with Java | Java |
 | *(More coming soon)* | | |
 
 ## 📫 Contact Me
